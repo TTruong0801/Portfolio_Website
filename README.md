@@ -4,7 +4,7 @@ A personal portfolio website for Thien Truong. Visitors can browse my projects, 
 
 ## Live Demo
 - Deployed app: [(https://gleeful-haupia-161590.netlify.app/)](https://thientruongportfolio.netlify.app/)
-- Demo video (unlisted): PASTE_YOUTUBE_LINK
+- Demo video (unlisted): (https://youtu.be/gZMr7Se-H1k)
 
 ## What It Does
 - Displays my projects, About section, and contact info
