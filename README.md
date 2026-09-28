@@ -3,7 +3,7 @@
 A personal portfolio website for Thien Truong. Visitors can browse my projects, and after logging in I can add, edit, and delete them.
 
 ## Live Demo
-- Deployed app: [PASTE_NETLIFY_LINK](https://gleeful-haupia-161590.netlify.app/)
+- Deployed app: [(https://gleeful-haupia-161590.netlify.app/)](https://thientruongportfolio.netlify.app/)
 - Demo video (unlisted): PASTE_YOUTUBE_LINK
 
 ## What It Does
